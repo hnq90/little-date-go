@@ -39,7 +39,7 @@ To add support for a new language:
 }
 ```
 
-3. Update the `supportedLocales` slice in `littedate.go` to include your new language code.
+3. Update the `supportedLocales` slice in `littledate.go` to include your new language code.
 
 ## JSON Format
 
