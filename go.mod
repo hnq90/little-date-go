@@ -1,4 +1,4 @@
-module github.com/hnq90/little-date
+module github.com/hnq90/little-date-go
 
 go 1.19
 

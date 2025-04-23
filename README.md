@@ -36,7 +36,7 @@ Wasn't that easy to read? You can find a full list of formatting examples in the
 ## Installation
 
 ```sh
-go get github.com/hnq90/little-date
+go get github.com/hnq90/little-date-go
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/hnq90/little-date"
+    "github.com/hnq90/little-date-go"
 )
 
 func main() {

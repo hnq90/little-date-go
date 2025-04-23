@@ -1,10 +1,10 @@
-module github.com/hnq90/little-date/example
+module github.com/hnq90/little-date-go/example
 
 go 1.19
 
-replace github.com/hnq90/little-date => ../
+replace github.com/hnq90/little-date-go => ../
 
-require github.com/hnq90/little-date v0.0.0-00010101000000-000000000000
+require github.com/hnq90/little-date-go v0.1.0
 
 require (
 	github.com/nicksnyder/go-i18n/v2 v2.2.1 // indirect
