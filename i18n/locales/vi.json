@@ -1,0 +1,154 @@
+{
+  "month.long.1": {
+    "description": "Full name of January",
+    "other": "Tháng Một"
+  },
+  "month.long.2": {
+    "description": "Full name of February",
+    "other": "Tháng Hai"
+  },
+  "month.long.3": {
+    "description": "Full name of March",
+    "other": "Tháng Ba"
+  },
+  "month.long.4": {
+    "description": "Full name of April",
+    "other": "Tháng Tư"
+  },
+  "month.long.5": {
+    "description": "Full name of May",
+    "other": "Tháng Năm"
+  },
+  "month.long.6": {
+    "description": "Full name of June",
+    "other": "Tháng Sáu"
+  },
+  "month.long.7": {
+    "description": "Full name of July",
+    "other": "Tháng Bảy"
+  },
+  "month.long.8": {
+    "description": "Full name of August",
+    "other": "Tháng Tám"
+  },
+  "month.long.9": {
+    "description": "Full name of September",
+    "other": "Tháng Chín"
+  },
+  "month.long.10": {
+    "description": "Full name of October",
+    "other": "Tháng Mười"
+  },
+  "month.long.11": {
+    "description": "Full name of November",
+    "other": "Tháng Mười Một"
+  },
+  "month.long.12": {
+    "description": "Full name of December",
+    "other": "Tháng Mười Hai"
+  },
+  "month.short.1": {
+    "description": "Short name of January",
+    "other": "Th1"
+  },
+  "month.short.2": {
+    "description": "Short name of February",
+    "other": "Th2"
+  },
+  "month.short.3": {
+    "description": "Short name of March",
+    "other": "Th3"
+  },
+  "month.short.4": {
+    "description": "Short name of April",
+    "other": "Th4"
+  },
+  "month.short.5": {
+    "description": "Short name of May",
+    "other": "Th5"
+  },
+  "month.short.6": {
+    "description": "Short name of June",
+    "other": "Th6"
+  },
+  "month.short.7": {
+    "description": "Short name of July",
+    "other": "Th7"
+  },
+  "month.short.8": {
+    "description": "Short name of August",
+    "other": "Th8"
+  },
+  "month.short.9": {
+    "description": "Short name of September",
+    "other": "Th9"
+  },
+  "month.short.10": {
+    "description": "Short name of October",
+    "other": "Th10"
+  },
+  "month.short.11": {
+    "description": "Short name of November",
+    "other": "Th11"
+  },
+  "month.short.12": {
+    "description": "Short name of December",
+    "other": "Th12"
+  },
+  "weekday.long.0": {
+    "description": "Full name of Sunday",
+    "other": "Chủ Nhật"
+  },
+  "weekday.long.1": {
+    "description": "Full name of Monday",
+    "other": "Thứ Hai"
+  },
+  "weekday.long.2": {
+    "description": "Full name of Tuesday",
+    "other": "Thứ Ba"
+  },
+  "weekday.long.3": {
+    "description": "Full name of Wednesday",
+    "other": "Thứ Tư"
+  },
+  "weekday.long.4": {
+    "description": "Full name of Thursday",
+    "other": "Thứ Năm"
+  },
+  "weekday.long.5": {
+    "description": "Full name of Friday",
+    "other": "Thứ Sáu"
+  },
+  "weekday.long.6": {
+    "description": "Full name of Saturday",
+    "other": "Thứ Bảy"
+  },
+  "weekday.short.0": {
+    "description": "Short name of Sunday",
+    "other": "CN"
+  },
+  "weekday.short.1": {
+    "description": "Short name of Monday",
+    "other": "T2"
+  },
+  "weekday.short.2": {
+    "description": "Short name of Tuesday",
+    "other": "T3"
+  },
+  "weekday.short.3": {
+    "description": "Short name of Wednesday",
+    "other": "T4"
+  },
+  "weekday.short.4": {
+    "description": "Short name of Thursday",
+    "other": "T5"
+  },
+  "weekday.short.5": {
+    "description": "Short name of Friday",
+    "other": "T6"
+  },
+  "weekday.short.6": {
+    "description": "Short name of Saturday",
+    "other": "T7"
+  }
+}

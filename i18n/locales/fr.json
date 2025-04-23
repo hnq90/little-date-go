@@ -1,0 +1,154 @@
+{
+  "month.long.1": {
+    "description": "Full name of January",
+    "other": "janvier"
+  },
+  "month.long.2": {
+    "description": "Full name of February",
+    "other": "février"
+  },
+  "month.long.3": {
+    "description": "Full name of March",
+    "other": "mars"
+  },
+  "month.long.4": {
+    "description": "Full name of April",
+    "other": "avril"
+  },
+  "month.long.5": {
+    "description": "Full name of May",
+    "other": "mai"
+  },
+  "month.long.6": {
+    "description": "Full name of June",
+    "other": "juin"
+  },
+  "month.long.7": {
+    "description": "Full name of July",
+    "other": "juillet"
+  },
+  "month.long.8": {
+    "description": "Full name of August",
+    "other": "août"
+  },
+  "month.long.9": {
+    "description": "Full name of September",
+    "other": "septembre"
+  },
+  "month.long.10": {
+    "description": "Full name of October",
+    "other": "octobre"
+  },
+  "month.long.11": {
+    "description": "Full name of November",
+    "other": "novembre"
+  },
+  "month.long.12": {
+    "description": "Full name of December",
+    "other": "décembre"
+  },
+  "month.short.1": {
+    "description": "Short name of January",
+    "other": "janv."
+  },
+  "month.short.2": {
+    "description": "Short name of February",
+    "other": "févr."
+  },
+  "month.short.3": {
+    "description": "Short name of March",
+    "other": "mars"
+  },
+  "month.short.4": {
+    "description": "Short name of April",
+    "other": "avr."
+  },
+  "month.short.5": {
+    "description": "Short name of May",
+    "other": "mai"
+  },
+  "month.short.6": {
+    "description": "Short name of June",
+    "other": "juin"
+  },
+  "month.short.7": {
+    "description": "Short name of July",
+    "other": "juil."
+  },
+  "month.short.8": {
+    "description": "Short name of August",
+    "other": "août"
+  },
+  "month.short.9": {
+    "description": "Short name of September",
+    "other": "sept."
+  },
+  "month.short.10": {
+    "description": "Short name of October",
+    "other": "oct."
+  },
+  "month.short.11": {
+    "description": "Short name of November",
+    "other": "nov."
+  },
+  "month.short.12": {
+    "description": "Short name of December",
+    "other": "déc."
+  },
+  "weekday.long.0": {
+    "description": "Full name of Sunday",
+    "other": "dimanche"
+  },
+  "weekday.long.1": {
+    "description": "Full name of Monday",
+    "other": "lundi"
+  },
+  "weekday.long.2": {
+    "description": "Full name of Tuesday",
+    "other": "mardi"
+  },
+  "weekday.long.3": {
+    "description": "Full name of Wednesday",
+    "other": "mercredi"
+  },
+  "weekday.long.4": {
+    "description": "Full name of Thursday",
+    "other": "jeudi"
+  },
+  "weekday.long.5": {
+    "description": "Full name of Friday",
+    "other": "vendredi"
+  },
+  "weekday.long.6": {
+    "description": "Full name of Saturday",
+    "other": "samedi"
+  },
+  "weekday.short.0": {
+    "description": "Short name of Sunday",
+    "other": "dim."
+  },
+  "weekday.short.1": {
+    "description": "Short name of Monday",
+    "other": "lun."
+  },
+  "weekday.short.2": {
+    "description": "Short name of Tuesday",
+    "other": "mar."
+  },
+  "weekday.short.3": {
+    "description": "Short name of Wednesday",
+    "other": "mer."
+  },
+  "weekday.short.4": {
+    "description": "Short name of Thursday",
+    "other": "jeu."
+  },
+  "weekday.short.5": {
+    "description": "Short name of Friday",
+    "other": "ven."
+  },
+  "weekday.short.6": {
+    "description": "Short name of Saturday",
+    "other": "sam."
+  }
+} 

@@ -1,0 +1,154 @@
+{
+  "month.long.1": {
+    "description": "Full name of January",
+    "other": "一月"
+  },
+  "month.long.2": {
+    "description": "Full name of February",
+    "other": "二月"
+  },
+  "month.long.3": {
+    "description": "Full name of March",
+    "other": "三月"
+  },
+  "month.long.4": {
+    "description": "Full name of April",
+    "other": "四月"
+  },
+  "month.long.5": {
+    "description": "Full name of May",
+    "other": "五月"
+  },
+  "month.long.6": {
+    "description": "Full name of June",
+    "other": "六月"
+  },
+  "month.long.7": {
+    "description": "Full name of July",
+    "other": "七月"
+  },
+  "month.long.8": {
+    "description": "Full name of August",
+    "other": "八月"
+  },
+  "month.long.9": {
+    "description": "Full name of September",
+    "other": "九月"
+  },
+  "month.long.10": {
+    "description": "Full name of October",
+    "other": "十月"
+  },
+  "month.long.11": {
+    "description": "Full name of November",
+    "other": "十一月"
+  },
+  "month.long.12": {
+    "description": "Full name of December",
+    "other": "十二月"
+  },
+  "month.short.1": {
+    "description": "Short name of January",
+    "other": "1月"
+  },
+  "month.short.2": {
+    "description": "Short name of February",
+    "other": "2月"
+  },
+  "month.short.3": {
+    "description": "Short name of March",
+    "other": "3月"
+  },
+  "month.short.4": {
+    "description": "Short name of April",
+    "other": "4月"
+  },
+  "month.short.5": {
+    "description": "Short name of May",
+    "other": "5月"
+  },
+  "month.short.6": {
+    "description": "Short name of June",
+    "other": "6月"
+  },
+  "month.short.7": {
+    "description": "Short name of July",
+    "other": "7月"
+  },
+  "month.short.8": {
+    "description": "Short name of August",
+    "other": "8月"
+  },
+  "month.short.9": {
+    "description": "Short name of September",
+    "other": "9月"
+  },
+  "month.short.10": {
+    "description": "Short name of October",
+    "other": "10月"
+  },
+  "month.short.11": {
+    "description": "Short name of November",
+    "other": "11月"
+  },
+  "month.short.12": {
+    "description": "Short name of December",
+    "other": "12月"
+  },
+  "weekday.long.0": {
+    "description": "Full name of Sunday",
+    "other": "星期日"
+  },
+  "weekday.long.1": {
+    "description": "Full name of Monday",
+    "other": "星期一"
+  },
+  "weekday.long.2": {
+    "description": "Full name of Tuesday",
+    "other": "星期二"
+  },
+  "weekday.long.3": {
+    "description": "Full name of Wednesday",
+    "other": "星期三"
+  },
+  "weekday.long.4": {
+    "description": "Full name of Thursday",
+    "other": "星期四"
+  },
+  "weekday.long.5": {
+    "description": "Full name of Friday",
+    "other": "星期五"
+  },
+  "weekday.long.6": {
+    "description": "Full name of Saturday",
+    "other": "星期六"
+  },
+  "weekday.short.0": {
+    "description": "Short name of Sunday",
+    "other": "日"
+  },
+  "weekday.short.1": {
+    "description": "Short name of Monday",
+    "other": "一"
+  },
+  "weekday.short.2": {
+    "description": "Short name of Tuesday",
+    "other": "二"
+  },
+  "weekday.short.3": {
+    "description": "Short name of Wednesday",
+    "other": "三"
+  },
+  "weekday.short.4": {
+    "description": "Short name of Thursday",
+    "other": "四"
+  },
+  "weekday.short.5": {
+    "description": "Short name of Friday",
+    "other": "五"
+  },
+  "weekday.short.6": {
+    "description": "Short name of Saturday",
+    "other": "六"
+  }
+}
